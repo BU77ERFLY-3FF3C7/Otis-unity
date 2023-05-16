@@ -1,4 +1,9 @@
 
+This theme is forked from :
+    https://github.com/EliverLara/otis
+    
+    do support the original creater for this wonderfull theme
+
 ![](Art/otis-unity1.png)
 ![](Art/otis-unity2.png)
 ![](Art/otis.jpg)
